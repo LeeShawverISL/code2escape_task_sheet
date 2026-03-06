@@ -396,7 +396,6 @@ td {
   /*padding: 0px 0px;*/
   border-radius: 11px;
   text-align: center;
-
   background: rgba(113, 217, 248, 0.12);
   border: 1px solid rgba(113, 239, 248, 0.4);
 }
@@ -406,7 +405,7 @@ td {
   display: block;
   font-size: 0.75rem;
   text-decoration: none;
-  color: var(--err);
+  color: var(--accent);
   font-weight: 600;
 }
 
