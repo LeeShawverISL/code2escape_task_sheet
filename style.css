@@ -385,7 +385,8 @@ td {
 /* Strand descriptor layout */
 .strand-row {
   display: flex;
-  align-items: center;   /* <-- vertically centers descriptor with pill */
+  align-items: center;
+  /* <-- vertically centers descriptor with pill */
   gap: 14px;
   margin-bottom: 10px;
 }
